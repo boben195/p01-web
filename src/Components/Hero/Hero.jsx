@@ -2,6 +2,8 @@ import React from "react";
 import "./Hero.css";
 import hero from "../../assets/hero.jpg";
 
+import { GiBeveledStar, GiFallingStar } from "react-icons/gi";
+
 const Hero = () => {
   return (
     <div>
@@ -21,7 +23,10 @@ const Hero = () => {
         <div className="hero_btn">
           <button className="cta-btn">Get started</button>
         </div>
-        <div className="icons"></div>
+        <div className="icons">
+          <GiBeveledStar className="two" />
+          <GiFallingStar className="three" />
+        </div>
         <img
           className="hero_img"
           src={hero}

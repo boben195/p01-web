@@ -35,6 +35,27 @@
     object-fit: cover;
     border-radius: 20px;
 }
-.hero_btn
 
-.icons
+
+.icons {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.icons .two {
+    position: absolute;
+    font-size: 38px;
+    margin-left: 310px;
+    margin-top: 130px;
+    color: #ff5f1f;
+}
+
+.icons .three {
+    position: absolute;
+    font-size: 36px;
+    color: #ff5f1f;
+    margin-left: 80rem; 
+    margin-top: 320px;
+}
+/*68rem and 180px*/
