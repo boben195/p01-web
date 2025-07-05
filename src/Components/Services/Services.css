@@ -72,3 +72,13 @@
 .servise_list:hover .icon {
     transform: rotateY(360deg);
 }
+.servise_list h2 {
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: 40px;
+    text-align: center;
+}
+.servise_list p {
+    font-size: 17px;
+    margin-top: 20px;
+}
