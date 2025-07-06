@@ -80,12 +80,12 @@ export const teams = [
   {
     name: "Some name",
     role: "Manager",
-    img: team1,
+    img: team5,
   },
   {
     name: "Some name",
     role: "Manager",
-    img: team2,
+    img: team6,
   },
   {
     name: "Some name",
@@ -110,7 +110,7 @@ export const teams = [
   {
     name: "Some name",
     role: "Manager",
-    img: team7,
+    img: team3,
   },
 ];
 
