@@ -44,3 +44,14 @@
 .icon-background h2 {
     font-size: 36px;
 }
+/* Question here */
+@media screen and (max-width: 480px) {
+    .steps {
+        display: flex;
+        flex-direction: column;
+    }
+    .step {
+        margin: 0;
+    }
+
+}
