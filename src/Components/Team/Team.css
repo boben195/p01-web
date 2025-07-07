@@ -43,3 +43,13 @@
 .team_member:hover {
     transform: scale(1.05);
 }
+
+@media screen and (max-width: 480px) {
+    .team {
+        margin-top: 1rem;
+    }
+    .team_members {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

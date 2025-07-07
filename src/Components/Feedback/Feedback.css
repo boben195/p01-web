@@ -51,3 +51,10 @@
     object-fit: cover;
     border-radius: 50%;
 }
+.feedback .customers::-webkit-scrollbar {
+    height: 8px;
+}
+.feedback .customers::-webkit-scrollbar-thumb {
+    background: #ff5f1f;
+    border-radius: 10pxs;
+}
