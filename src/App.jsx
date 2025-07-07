@@ -5,6 +5,7 @@ import Steps from "./Components/Steps/Steps";
 import Services from "./Components/Services/Services";
 import About from "./Components/About/About";
 import Team from "./Components/Team/Team";
+import Feedback from "./Components/Feedback/Feedback";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Services />
       <About />
       <Team />
+      <Feedback />
     </div>
   );
 };
