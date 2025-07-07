@@ -39,7 +39,7 @@ const Footer = () => {
       </div>
       <div className="copy">
         <hr />
-        <p>Copyright and bla bla bla</p>
+        <p className="copyright">Copyright and bla bla bla</p>
       </div>
     </div>
   );
