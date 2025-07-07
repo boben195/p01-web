@@ -79,4 +79,7 @@
         z-index: 10;
         border: none;
     }
+    .close_icon{
+        right: 45%;
+    }
 }
